@@ -6,10 +6,10 @@ var green = [75, 100, 40];
 var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 var letterColors = [red, orange, green, blue, purple];
-
+var bub = [1]
 drawName(myName, letterColors);
 
-if(10 < 3)
+if(10 < (bub))
 {
     bubbleShape = 'square';
 }
